@@ -16,3 +16,16 @@
 *.user
 *.booproj
 *.svd
+
+
+# Игнорируем временные файлы Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Игнорируем кешированные пакеты (это как раз твоя проблема)
+Library/PackageCache/
