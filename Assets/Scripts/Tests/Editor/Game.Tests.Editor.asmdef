@@ -1,0 +1,12 @@
+{
+	"name": "Game.Tests.Editor",
+	"references": [
+		"Assembly-CSharp",
+		"UnityEngine",
+		"UnityEditor"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"autoReferenced": true
+}
