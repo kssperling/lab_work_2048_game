@@ -1,1 +1,0 @@
-# Unity-файлы, которые НЕ нужно загружать[Ll]ibrary/[Tt]emp/[Oo]bj/[Bb]uild/[Bb]uilds/[Ll]ogs/[Uu]ser[Ss]ettings/*.csproj*.unityproj*.sln*.suo*.userprefs*.pidb*.log*.meta (но НЕ игнорируем .meta файлы в Assets!)
